@@ -18,3 +18,23 @@ li.nav
 {
     padding-right: 2ex;
 }
+
+.fa-brands.fa-square-instagram.fa-2x:hover
+{
+    color: rgb(19, 167, 212);
+}
+
+.fa-brands.fa-square-github.fa-2x:hover
+{
+    color: rgb(19, 167, 212);
+}
+
+.fa-brands.fa-linkedin.fa-2x:hover
+{
+    color: rgb(19, 167, 212);
+}
+
+.fa-solid.fa-user.fa-2x.user:hover
+{
+    color: rgb(19, 167, 212);
+}
