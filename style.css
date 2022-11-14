@@ -1,0 +1,20 @@
+#menu
+{
+    font-size: 35px;
+
+}
+
+li.nav
+{
+    padding-left: 1ex;
+}
+
+.navbar.navbar-expand-lg
+{
+    background-color: rgb(25, 98, 167);
+}
+
+.user
+{
+    padding-right: 2ex;
+}
